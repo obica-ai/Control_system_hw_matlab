@@ -11,3 +11,7 @@
 # bode plot
 
 ![image](https://github.com/obica-ai/Control_system_hw_matlab/assets/79022618/ebf18d2d-abe8-4192-af32-29428f66a9f2)
+
+# Optimize K, pole from origin and zero from origin
+
+# bode, rootloc plot
